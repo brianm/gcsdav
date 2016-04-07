@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/brianm/gcsdav",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v60",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "golang.org/x/net/webdav",
+			"Rev": "024ed629fd292398cfd43c9678a5bf004f7defdc"
+		},
+		{
+			"ImportPath": "golang.org/x/net/webdav/internal/xml",
+			"Rev": "024ed629fd292398cfd43c9678a5bf004f7defdc"
+		}
+	]
+}

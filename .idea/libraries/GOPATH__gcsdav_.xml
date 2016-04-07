@@ -1,0 +1,46 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gcsdav&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../github.groupondev.com" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../wsf/.git" />
+      <root url="file://$PROJECT_DIR$/../../rust-lang/rust/src/llvm/docs/_themes" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/http2/testdata" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/.git" />
+      <root url="file://$PROJECT_DIR$/.git" />
+      <root url="file://$PROJECT_DIR$/../../rust-lang/rust/src/llvm/docs/_static" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/crypto/.git" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/oauth2/.git" />
+      <root url="file://$PROJECT_DIR$/../wsf/target/debug/.fingerprint" />
+      <root url="file://$PROJECT_DIR$/../wsf/target/release/.fingerprint" />
+      <root url="file://$PROJECT_DIR$/../../rust-lang/rust/.git" />
+      <root url="file://$PROJECT_DIR$/../rpcdb/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/oauth2/google/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/bpf/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org/cloud/storage/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../github.groupondev.com/jtier/jtier-service-core/.git" />
+      <root url="file://$PROJECT_DIR$/../../kr/fs/.git" />
+      <root url="file://$PROJECT_DIR$/../../rust-lang/rust/src/llvm/docs/_templates" />
+      <root url="file://$PROJECT_DIR$/../../../github.groupondev.com/jtier/jtier-cli/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/crypto/ssh/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org/api/.git" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org/cloud/datastore/testdata" />
+      <root url="file://$PROJECT_DIR$/../../rust-lang/rust/src/llvm/docs/_ocamldoc" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/crypto/sha3/testdata" />
+      <root url="file://$PROJECT_DIR$/../../rust-lang/rust/doc/std/__rand" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org/api/google-api-go-generator/testdata" />
+      <root url="file://$PROJECT_DIR$/../../../google.golang.org/cloud/.git" />
+      <root url="file://$PROJECT_DIR$/../../../golang.org/x/net/html/charset/testdata" />
+      <root url="file://$PROJECT_DIR$/../../pkg/sftp/.git" />
+    </excluded>
+  </library>
+</component>
